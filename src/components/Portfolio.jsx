@@ -5,6 +5,8 @@ import iptracker from "../assets/portfolio/iptracker.jpg";
 import nftportal from "../assets/portfolio/nftportal.jpg";
 import webpostman from "../assets/portfolio/webpostman.jpg";
 import waveportal from "../assets/portfolio/waveportal.jpg";
+import empbusi from "../assets/portfolio/empbusi.png"; // new project image
+
 
 const Portfolio = () => {
   const portfolios = [
@@ -43,6 +45,12 @@ const Portfolio = () => {
       src: iptracker,
       link: 'https://trackmyip.netlify.app/',
       repo: 'https://github.com/rahulkarda/IP-Address-Tracker'
+    },
+    {
+      id: 7, // new project
+      src: empbusi,
+      link: 'https://salt-legal-frontend.vercel.app/#/',
+      repo: ''
     },
   ];
 
