@@ -14,31 +14,31 @@ const About = () => {
         </div>
 
         <p className="text-xl mt-5">
-          Hi, I’m <strong>Tauheed Jahan (TJ)</strong> — a Freelance <strong>Web Designer & Data Analyst</strong> passionate about helping businesses grow through creative design and data-driven strategies.
+          I’m <strong>Tauheed Jahan (TJ)</strong> — a <strong>Full Stack Developer & UI/UX Designer</strong> with 4+ years of experience building responsive websites and data-driven applications. My journey started with front-end design, and over time I expanded into full stack development to deliver end-to-end digital solutions.
         </p>
 
         <br />
 
         <p className="text-xl">
-          Over the past few years, I’ve collaborated with startups, entrepreneurs, and small to mid-sized businesses to deliver <strong>modern, responsive websites</strong> and <strong>actionable data insights</strong>. My work focuses on creating web experiences that are fast, user-friendly, and conversion-focused.
+          <strong>What I Do:</strong><br/>
+          Frontend: React, Next.js, Tailwind CSS, JavaScript, HTML, CSS<br/>
+          Backend: Node.js, Express.js, REST APIs, MongoDB/MySQL<br/>
+          Design: UI/UX with Figma, Adobe Creative Suite, minimalistic branding<br/>
+          Other: WordPress, SEO, GitHub, deployment & version control
         </p>
 
         <br />
 
         <p className="text-xl">
-          💻 <strong>Web Design & Development:</strong> WordPress, React, HTML, CSS, Next.js, Tailwind CSS — building SEO-friendly, responsive, and visually appealing websites tailored to business goals.
+          <strong>My Approach:</strong><br/>
+          I believe in combining clean code with thoughtful design to create products that are fast, scalable, and user-friendly. From custom business websites to full-stack applications, I ensure every project delivers both aesthetic appeal and practical functionality.
         </p>
 
         <br />
 
         <p className="text-xl">
-          📊 <strong>Data Analytics:</strong> Python, Excel, Google Sheets — cleaning data, creating visual dashboards, and generating actionable insights to help businesses make smarter decisions.
-        </p>
-
-        <br />
-
-        <p className="text-xl">
-          I combine creative design with practical analytics to help brands move forward with confidence. Let’s connect and create digital solutions that deliver real results.
+          <strong>Vision:</strong><br/>
+          To help businesses and individuals transform ideas into impactful digital experiences — whether that’s through a modern website, an interactive dashboard, or a complete full-stack solution.
         </p>
       </div>
     </div>
