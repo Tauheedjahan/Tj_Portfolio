@@ -18,8 +18,8 @@ const Portfolio = () => {
     },
     {
       id: 2,
-      src: webpostman,
-      link: 'https://e-commerce-web-ebon.vercel.app/',
+      src: empbusi,
+      link: 'https://salt-legal-frontend.vercel.app/#/',
       repo: ''
     },
     {
@@ -45,12 +45,6 @@ const Portfolio = () => {
       src: iptracker,
       link: 'https://trackmyip.netlify.app/',
       repo: 'https://github.com/rahulkarda/IP-Address-Tracker'
-    },
-    {
-      id: 7, // new project
-      src: empbusi,
-      link: 'https://salt-legal-frontend.vercel.app/#/',
-      repo: ''
     },
   ];
 
