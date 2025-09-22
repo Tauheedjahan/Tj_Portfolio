@@ -12,10 +12,11 @@ const Home = () => {
       <div className="max-w-screen-lg mx-auto flex flex-col items-center justify-center h-full px-4 md:flex-row">
       <div className="small-screen hidden">
           <img
-            src={HeroImage}
+          src={HeroImage}
             alt="profile"
-            className="rounded-2xl mx-auto w-4/5 md:w-full md:ml-10" 
-          />
+                    className="rounded-2xl mx-auto w-4/5 md:w-full md:ml-10" 
+              />
+
 
         </div>
         <div className="flex flex-col justify-center h-full">
