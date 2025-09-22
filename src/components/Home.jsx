@@ -19,12 +19,15 @@ const Home = () => {
         </div>
         <div className="flex flex-col justify-center h-full">
           <h2 className="text-4xl sm:text-7xl font-bold text-white">
-            I'm a Developer and Designer
+            Full Stack Web Developer | UI/UX Designer | Turning Ideas into Digital Reality
           </h2>
           <p className="text-gray-500 py-4 max-w-md">
-            I have 4 years of experience building websites and desgining .
-          I love to work on web application using technologies like
-            React, Tailwind, Next JS and Adobe Creative Suite.
+            I have 4 years of experience building websites,
+          designing user-friendly web experiences, and analyzing
+            data to help businesses grow. I create modern,
+          responsive web applications using React, Next.js, Tailwind
+            CSS, Adobe Creative Suite, and deliver actionable
+          insights through Excel, Python, and data visualization.
           </p>
 
           <div className="portfolio-btn">
