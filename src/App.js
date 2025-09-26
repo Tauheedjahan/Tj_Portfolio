@@ -31,7 +31,15 @@ function App() {
         />
 
         {/* More Services page */}
-        <Route path="/more-services" element={<MoreServices />} />
+        <Route
+          path="/more-services"
+          element={
+            <>
+              <MoreServices />
+              <Footer />
+            </>
+          }
+        />
       </Routes>
     </>
   );
