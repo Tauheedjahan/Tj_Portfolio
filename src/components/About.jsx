@@ -4,7 +4,7 @@ const About = () => {
   return (
     <div
       name="about"
-      className="w-full h-auto bg-gradient-to-b from-gray-800 to-black text-white about"
+      className="w-full h-auto bg-[#0B0B0B] text-white about"
     >
       <div className="max-w-screen-lg p-4 mx-auto flex flex-col justify-center w-full h-full">
         <div className="pb-8">
@@ -26,7 +26,6 @@ const About = () => {
          Design: UI/UX with Figma, Adobe Creative Suite, minimalistic branding<br/>
          Data Analytics: Python, Excel, Google Sheets, Data Visualization<br/>
          Other: WordPress, SEO, GitHub, deployment & version control
-
         </p>
 
         <br />

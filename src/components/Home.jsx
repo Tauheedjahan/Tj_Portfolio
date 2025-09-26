@@ -1,15 +1,18 @@
 import React from "react";
-import HeroImage from "../assets/Tj.png";
+import HeroImage from "../assets/tj.png";   // sirf ye rakho
 import { MdOutlineKeyboardArrowRight } from "react-icons/md";
 import { Link } from "react-scroll";
 
 const Home = () => {
   return (
-    <div
+    <div id="home"
       name="home"
-      className="h-screen w-full bg-gradient-to-b from-black via-black to-gray-800 home"
+      className="h-screen w-full bg-[#0B0B0B] home"
+  
     >
-      <div className="max-w-screen-lg mx-auto flex flex-col items-center justify-center h-full px-4 md:flex-row">
+      <div className="mx-auto flex flex-col items-center justify-center h-full px-4 md:flex-row">
+  {/* ab max-w-screen-lg hata diya */}
+
       <div className="small-screen hidden">
           <img
           src={HeroImage}
@@ -19,11 +22,11 @@ const Home = () => {
 
 
         </div>
-        <div className="flex flex-col justify-center h-full">
+        <div className="flex flex-col justify-center h-full md:ml-40 mt-32">
           <h2 className="text-4xl sm:text-7xl font-bold text-white">
             Full Stack Web & UI/UX Designer + Data Analyst
           </h2>
-          <p className="text-gray-500 py-4 max-w-md">
+          <p className="text-gray-300 py-9 max-w-md">
             I have 4 years of experience building websites,
           designing user-friendly web experiences, and analyzing
             data to help businesses grow. I create modern,

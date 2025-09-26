@@ -13,7 +13,7 @@
 }
 
 #root {
-  background: linear-gradient(black 25%, rgb(31, 41, 54) 58%, black 15%);
+  background-color: #0B0B0B;
   min-height: 100vh;
 }
 
