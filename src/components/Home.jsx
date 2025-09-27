@@ -17,12 +17,12 @@ const Home = () => {
         <img
           src={HeroImage}
           alt="profile"
-                className="rounded-2xl mx-auto w-full md:w-4/5"
+                className="rounded-2xl mx-auto w-full bg-green-500 md:w-4/5"
           />
 
 
         </div>
-        <div className="flex flex-col justify-center h-full md:ml-40 mt-32">
+        <div className="flex flex-col justify-center bg-red-500 h-full md:ml-40 mt-32">
           <h2 className="text-4xl sm:text-7xl font-bold text-white">
             Full Stack Web & UI/UX Designer + Data Analyst
           </h2>
