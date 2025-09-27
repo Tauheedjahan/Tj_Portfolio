@@ -14,11 +14,11 @@ const Home = () => {
   {/* ab max-w-screen-lg hata diya */}
 
       <div className="small-screen hidden">
-          <img
+        <img
           src={HeroImage}
-            alt="profile"
-                    className="rounded-2xl mx-auto w-4/5 md:w-full md:ml-10" 
-              />
+          alt="profile"
+                className="rounded-2xl mx-auto w-full md:w-4/5"
+          />
 
 
         </div>
