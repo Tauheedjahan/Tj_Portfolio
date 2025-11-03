@@ -14,32 +14,43 @@ const About = () => {
         </div>
 
         <p className="text-xl mt-5">
-          I’m <strong>Tauheed Jahan (TJ)</strong> — a <strong>Full Stack Developer & UI/UX Designer</strong> with 4+ years of experience building responsive websites and data-driven applications. My journey started with front-end design, and over time I expanded into full stack development to deliver end-to-end digital solutions.
-        </p>
-
-        <br />
-
-        <p className="text-xl ">
-          <strong>What I Do:</strong><br/>
-         Frontend: React, Next.js, Tailwind CSS, JavaScript, HTML, CSS<br/>
-         Backend: Node.js, Express.js, REST APIs, MongoDB/MySQL<br/>
-         Design: UI/UX with Figma, Adobe Creative Suite, minimalistic branding<br/>
-         Data Analytics: Python, Excel, Google Sheets, Data Visualization<br/>
-         Other: WordPress, SEO, GitHub, deployment & version control
-        </p>
-
-        <br />
-
-        <p className="text-xl ">
-          <strong>My Approach:</strong><br/>
-          I believe in combining clean code with thoughtful design to create products that are fast, scalable, and user-friendly. From custom business websites to full-stack applications, I ensure every project delivers both aesthetic appeal and practical functionality.
+          I’m <strong>Tauheed Jahan (TJ)</strong> — a{" "}
+          <strong>Frontend Developer & Data Analyst</strong> passionate about
+          designing intuitive web interfaces and transforming data into
+          actionable insights. I love creating websites that not only look great
+          but also perform efficiently — helping businesses connect better with
+          their audience.
         </p>
 
         <br />
 
         <p className="text-xl">
-          <strong>Vision:</strong><br/>
-          To help businesses and individuals transform ideas into impactful digital experiences — whether that’s through a modern website, an interactive dashboard, or a complete full-stack solution.
+          <strong>What I Do:</strong>
+          <br />
+          🌐 <strong>Frontend Development:</strong> React, Next.js, Tailwind CSS, JavaScript, HTML, CSS  
+          🎨 <strong>UI/UX Design:</strong> Figma, Adobe Creative Suite, responsive layouts  
+          📊 <strong>Data Analytics:</strong> Excel, Power BI, Python, Google Sheets, Data Visualization  
+          ⚙️ <strong>Other Tools:</strong> WordPress, GitHub, SEO, and project deployment
+        </p>
+
+        <br />
+
+        <p className="text-xl">
+          <strong>My Approach:</strong>
+          <br />
+          I focus on merging clean design with functional data insights.
+          Every project I build is aimed at improving user experience, visual
+          appeal, and decision-making through a balance of design and analytics.
+        </p>
+
+        <br />
+
+        <p className="text-xl">
+          <strong>Vision:</strong>
+          <br />
+          To empower businesses with creative digital experiences — from sleek
+          web designs to intelligent data dashboards that tell meaningful stories
+          through numbers.
         </p>
       </div>
     </div>
