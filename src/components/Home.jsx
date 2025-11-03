@@ -24,15 +24,13 @@ const Home = () => {
         </div>
         <div className="flex flex-col justify-center h-full md:ml-40 mt-32">
           <h2 className="text-4xl sm:text-7xl font-bold text-white">
-            Full Stack Web & UI/UX Designer + Data Analyst
+            Frontend Developer + Data Analyst
           </h2>
           <p className="text-gray-300 py-9 max-w-md">
-            I have 4 years of experience building websites,
-          designing user-friendly web experiences, and analyzing
-            data to help businesses grow. I create modern,
-          responsive web applications using React, Next.js, Tailwind
-            CSS, Adobe Creative Suite, and deliver actionable
-          insights through Excel, Python, and data visualization.
+           I design fast, modern, and user-friendly websites — and build data-driven dashboards that help businesses make smarter decisions.
+From clean UI to powerful analytics, I combine design thinking with technical skill to deliver end-to-end digital solutions.
+
+Tech Stack: React · Tailwind CSS · JavaScript · Python · Power BI · Excel
           </p>
 
           <div className="portfolio-btn">
